@@ -2,11 +2,7 @@
 
 Install requirements : 
 
-    1- if you're using windows you just double click on install_requirements.bat to install the requirements
-    
-    2- in case you're using other Operation system : 
-        - open a shell or terminal on the project root path : then type "pip install -r requirements.txt" 
-        ( in case you're using mac it's you possibly need to type pip3 install -r requirements.txt instead)
+    - "pip install -r requirements.txt"  ( in case using Mac or Linux, "pip3 install -r requirements.txt")
 
 Pocketbase integration: 
 
