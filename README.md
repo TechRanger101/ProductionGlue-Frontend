@@ -2,7 +2,7 @@
 
 Install requirements : 
 
-    - "pip install -r requirements.txt"  ( in case using Mac or Linux, "pip3 install -r requirements.txt")
+    - "pip install -r requirements.txt"  ( In Mac or Linux, "pip3 install -r requirements.txt")
 
 Pocketbase integration: 
 
