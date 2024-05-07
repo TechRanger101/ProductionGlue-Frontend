@@ -6,13 +6,11 @@ Install requirements :
 
 Pocketbase integration: 
 
-    1- in the root path of the project type : '"db/pocketbase" serve' to launch the database server 
+    1- '"db/pocketbase" serve' to launch the database server 
     
-    2- through your browser access http://127.0.0.1:8090/_/ and register by adding user and pass 
+    2- access http://127.0.0.1:8090/_/ and register by adding user and pass 
     
     3- add these user and passwd into the utils/pipelines.py file (lines 26,27)
-    
-    4- run the project in the same old manner 
 
 Run the project :
     
