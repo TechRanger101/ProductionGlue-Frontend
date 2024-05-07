@@ -1,0 +1,5 @@
+scrapy
+git+https://github.com/russian-developer/txsocksx.git
+loguru
+requests
+pocketbase
