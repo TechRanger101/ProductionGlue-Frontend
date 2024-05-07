@@ -14,6 +14,6 @@ Pocketbase integration:
 
 Run the project :
     
-    - on root path of the project type : "python main.py makes_models" for extracting makes and models only
+    - "python main.py makes_models" for extracting makes and models only
     
-    - or "python main.py cars" for extracting all cars informations 
+    - "python main.py cars" for extracting all cars informations 
