@@ -1,1 +1,0 @@
-socks5://package-10001:Bickc6RKoIszRFNp@rotating.proxyempire.io:5000
